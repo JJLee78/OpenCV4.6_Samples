@@ -362,3 +362,14 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /opencvproject_template
+/JJLIB/JJLIB.vcxproj.filters
+/JJLIB/lib/JJLIB.tlog/CL.command.1.tlog
+/JJLIB/lib/JJLIB.tlog/CL.read.1.tlog
+/JJLIB/lib/JJLIB.tlog/CL.write.1.tlog
+/JJLIB/lib/JJLIB.tlog/JJLIB.lastbuildstate
+/JJLIB/lib/JJLIB.tlog/JJLIB.write.1u.tlog
+/JJLIB/lib/JJLIB.tlog/link.command.1.tlog
+/JJLIB/lib/JJLIB.tlog/link.read.1.tlog
+/JJLIB/lib/JJLIB.tlog/link.write.1.tlog
+/JJLIB/lib/JJLIB.vcxproj.FileListAbsolute.txt
+/07_Filter_Noise/07_Filter_Noise.filters
