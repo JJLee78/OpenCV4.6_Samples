@@ -45,6 +45,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18_Binaryzation_Labeling", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19_Binaryzation_FindContours", "19_Binaryzation_FindContours\19_Binaryzation_FindContours.vcxproj", "{00005277-A161-45E4-B8B3-A97697744167}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20_Binaryzation_Polygon", "20_Binaryzation_Polygon\20_Binaryzation_Polygon.vcxproj", "{1352DD00-09A1-4546-8B8B-3EB407CAB1A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -221,6 +223,14 @@ Global
 		{00005277-A161-45E4-B8B3-A97697744167}.Release|x64.Build.0 = Release|x64
 		{00005277-A161-45E4-B8B3-A97697744167}.Release|x86.ActiveCfg = Release|Win32
 		{00005277-A161-45E4-B8B3-A97697744167}.Release|x86.Build.0 = Release|Win32
+		{1352DD00-09A1-4546-8B8B-3EB407CAB1A8}.Debug|x64.ActiveCfg = Debug|x64
+		{1352DD00-09A1-4546-8B8B-3EB407CAB1A8}.Debug|x64.Build.0 = Debug|x64
+		{1352DD00-09A1-4546-8B8B-3EB407CAB1A8}.Debug|x86.ActiveCfg = Debug|Win32
+		{1352DD00-09A1-4546-8B8B-3EB407CAB1A8}.Debug|x86.Build.0 = Debug|Win32
+		{1352DD00-09A1-4546-8B8B-3EB407CAB1A8}.Release|x64.ActiveCfg = Release|x64
+		{1352DD00-09A1-4546-8B8B-3EB407CAB1A8}.Release|x64.Build.0 = Release|x64
+		{1352DD00-09A1-4546-8B8B-3EB407CAB1A8}.Release|x86.ActiveCfg = Release|Win32
+		{1352DD00-09A1-4546-8B8B-3EB407CAB1A8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
