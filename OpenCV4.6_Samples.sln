@@ -55,6 +55,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "23_Objdetection_HOG", "23_O
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "24_Objdetection_QRCode", "24_Objdetection_QRCode\24_Objdetection_QRCode.vcxproj", "{06AF6B69-6500-46F0-B348-D53BA22023D3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "25_Objdetection_CornerHarris", "25_Objdetection_CornerHarris\25_Objdetection_CornerHarris.vcxproj", "{CE4169F6-BCBB-4170-A8B1-7FD9A457279C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "26_Objdetection_FAST", "26_Objdetection_FAST\26_Objdetection_FAST.vcxproj", "{99F6D340-2F44-4480-81E9-FE4848E8771A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -271,6 +275,22 @@ Global
 		{06AF6B69-6500-46F0-B348-D53BA22023D3}.Release|x64.Build.0 = Release|x64
 		{06AF6B69-6500-46F0-B348-D53BA22023D3}.Release|x86.ActiveCfg = Release|Win32
 		{06AF6B69-6500-46F0-B348-D53BA22023D3}.Release|x86.Build.0 = Release|Win32
+		{CE4169F6-BCBB-4170-A8B1-7FD9A457279C}.Debug|x64.ActiveCfg = Debug|x64
+		{CE4169F6-BCBB-4170-A8B1-7FD9A457279C}.Debug|x64.Build.0 = Debug|x64
+		{CE4169F6-BCBB-4170-A8B1-7FD9A457279C}.Debug|x86.ActiveCfg = Debug|Win32
+		{CE4169F6-BCBB-4170-A8B1-7FD9A457279C}.Debug|x86.Build.0 = Debug|Win32
+		{CE4169F6-BCBB-4170-A8B1-7FD9A457279C}.Release|x64.ActiveCfg = Release|x64
+		{CE4169F6-BCBB-4170-A8B1-7FD9A457279C}.Release|x64.Build.0 = Release|x64
+		{CE4169F6-BCBB-4170-A8B1-7FD9A457279C}.Release|x86.ActiveCfg = Release|Win32
+		{CE4169F6-BCBB-4170-A8B1-7FD9A457279C}.Release|x86.Build.0 = Release|Win32
+		{99F6D340-2F44-4480-81E9-FE4848E8771A}.Debug|x64.ActiveCfg = Debug|x64
+		{99F6D340-2F44-4480-81E9-FE4848E8771A}.Debug|x64.Build.0 = Debug|x64
+		{99F6D340-2F44-4480-81E9-FE4848E8771A}.Debug|x86.ActiveCfg = Debug|Win32
+		{99F6D340-2F44-4480-81E9-FE4848E8771A}.Debug|x86.Build.0 = Debug|Win32
+		{99F6D340-2F44-4480-81E9-FE4848E8771A}.Release|x64.ActiveCfg = Release|x64
+		{99F6D340-2F44-4480-81E9-FE4848E8771A}.Release|x64.Build.0 = Release|x64
+		{99F6D340-2F44-4480-81E9-FE4848E8771A}.Release|x86.ActiveCfg = Release|Win32
+		{99F6D340-2F44-4480-81E9-FE4848E8771A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
